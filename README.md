@@ -1,6 +1,4 @@
 ### Hi 👋
-![](https://komarev.com/ghpvc/?username=s-omranpour&color=brightgreen)
-
 
 A little about me:
 
