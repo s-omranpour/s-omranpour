@@ -1,6 +1,6 @@
 - 🔭 Previously worked on Conversational AI (ASR + NLP) and Social networks analysis
 - 🎹 Currently working on Symbolic Music Generation
-- 🎓 Bachelor of Computer Engineering at Sharif University of Technology
+- 🎓 Bachelor of Computer Engineering, Sharif University of Technology
 - 🧠 Interested in brain studies specifically information based theories of Mind and Consciousness
 
 [![SoundCloud Badge](https://img.shields.io/badge/listen-soundcloud-orange)](https://soundcloud.com/dream-s-catcher)
