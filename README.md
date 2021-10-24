@@ -1,8 +1,7 @@
-- 🔭 Previously worked on Conversational AI (ASR + NLP) and Social networks analysis
-- 🎹 Currently working on Symbolic Music Generation
+- 📋 Previously worked on Speech Recognition and Social Networks Analysis
+- 🔭 Currently working on Music Information Retrieval (symbolic) and Natural Language Processing
 - 🎓 Bachelor of Computer Engineering, Sharif University of Technology
-- 🧠 Interested in brain studies specifically information based theories of Mind and Consciousness
-
+- 🎸 Playing Guitar and MIDI Keyboard   
 [![SoundCloud Badge](https://img.shields.io/badge/listen-soundcloud-orange)](https://soundcloud.com/dream-s-catcher)
 
 
